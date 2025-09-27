@@ -55,7 +55,7 @@ From the browser go to the url: http://localhost:8080/index.html
 🎆 Method 2:
 
 From the CMD terminal
-curl http://localhost:8080/api/books
+curl http://localhost:8080/api/v1/books
 
 ## Available Endpoints
 
